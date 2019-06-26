@@ -405,22 +405,22 @@
 	
 
 /*********************************************************************************/
-/* Banner                                                                        */
+/* CV                                                                        */
 /*********************************************************************************/
 
-	#banner
+	#CV
 	{
 		overflow: hidden;
 	}
 	
-	#banner .heading
+	#CV .heading
 	{
 		padding: 0em 15em;
 		text-align: center;
 		font-weight: 300;
 	}
 
-	#banner .heading h2
+	#CV .heading h2
 	{
 		display: block;
 		padding-bottom: 0.5em;
@@ -429,13 +429,13 @@
 		color: rgba(255,255,255,.8);
 	}
 	
-	#banner .heading p
+	#CV .heading p
 	{
 		font-size: 1.2em;
 		color: rgba(255,255,255,.4);
 	}
 	
-	#banner 
+	#CV 
 	{
 		overflow: hidden;
 		padding: 8em 0em;
@@ -446,11 +446,11 @@
 		background-size: 100% 100%;
 	}
 	
-	#banner img
+	#CV img
 	{
 	}
 	
-	#banner .button
+	#CV .button
 	{
 		background: #F3CD52;
 		font-size: 1.3em;
@@ -466,11 +466,11 @@
 		background: #242424;
 	}
 
-	#wrapper2
+	#AboutMe
 	{
 	}
 
-	#wrapper3
+	#Interest
 	{
 		overflow: hidden;
 		padding: 0em 0em 6em 0em;
@@ -671,29 +671,29 @@
 /* Three Columns                                                                 */
 /*********************************************************************************/
 
-	#three-column
+	#Blog
 	{
 		overflow: hidden;
 		text-align: center;
 		color: rgba(255,255,255,.6);
 	}
 	
-	#three-column #tbox1,
-	#three-column #tbox2,
-	#three-column #tbox3
+	#Blog #tbox1,
+	#Blog #tbox2,
+	#Blog #tbox3
 	{
 		float: left;
 		width: 320px;
 		padding: 80px 40px 80px 40px;
 	}
 	
-	#three-column .title
+	#Blog .title
 	{
 		/*letter-spacing: 0.10em;*/
 		text-align: center;
 	}
 	
-	#three-column .title h1
+	#Blog .title h1
 	{
 		letter-spacing: 0.10em;
 		font-size: 2.5em;
@@ -701,7 +701,7 @@
 		color: rgba(255,255,255,0.8);
 	}
 
-	#three-column .title h2
+	#Blog .title h2
 	{
 		letter-spacing: 0.10em;
 		font-size: 1.5em;
@@ -709,14 +709,14 @@
 		color: rgba(255,255,255,0.8);
 	}
 	
-	#three-column .title .byline
+	#Blog .title .byline
 	{
 		padding-top: 0.50em;
 		font-size: 0.90em;
 		color: #858585;
 	}
 
-	#three-column .arrow-down
+	#Blog .arrow-down
 	{
 		border-top-color: #292929;
 	}
